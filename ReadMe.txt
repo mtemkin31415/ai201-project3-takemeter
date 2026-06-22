@@ -247,3 +247,7 @@ Label Stress testing: I will give Claude Code some examples of edge cases, then 
 Annotation Anallysis: I will try to do speed up the process by giving claude code some examples that I have not annotated yet. I will give it my taxonomy definitions, edge cases and examples then ask it to try to come up with the correct taxonomies. I will validate myself and see if it can succeed in classifying before implementing.
 
 Failure Analysis: After the models run I will hand off the wrong prediction batches to claude code and see if it can identify any patterns in the wrong predictions.    
+
+
+Video link:https://www.loom.com/share/afb146327f4049429d026f91037f83ef
+
